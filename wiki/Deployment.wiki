@@ -7,7 +7,7 @@ This page contains information about the deployment of the USUS plugin.
 = Prerequisites =
 
    * Install the Eclipse RCP plugin development components
-   * Install the EclEmma plugin from http://update.eclemma.org/
+   * Install the !EclEmma plugin from http://update.eclemma.org/
 
 = Details =
 
