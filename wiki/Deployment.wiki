@@ -11,9 +11,12 @@ This page contains information about the deployment of the USUS plugin.
 
 = Details =
 
+   * Create a Run Configuration via org.eclipse.usus.feature -> Run as -> Run Configurations ...
+   * Call it USUS and leave the other parameters at the default settings.
+   * Run it -> it opens a new Eclipse with a new workspace
+   * In this workspace, you can create a new project with test files
 
+= Execution =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+   * Open the "Code Proportions Cockpit" and the "Yellow Count" via Window -> Show view -> USUS Project
+   * The former has a refresh button which executes all checks.
