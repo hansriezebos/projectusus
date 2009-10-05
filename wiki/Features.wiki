@@ -1,0 +1,4 @@
+#summary Features of the USUS Eclipse plug-ins
+
+  * YellowCount
+    * Visualize the current amount of compiler warnings and other 'yellow' markers in the workspace.
