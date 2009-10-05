@@ -1,0 +1,5 @@
+#summary Visualize the amount of compiler warnings and other 'yellow' markers in the workspace
+
+= Introduction =
+
+Many projects introduce the 'No Yellow' rule: we want zero tolerance for warnings (yellow markers in the workspace). Of course, this helps only if compiler warnings, checkstyle warnings etc. are actually switched on. To highlight the current status the usus is to use YellowCount. It displays the count, and gets more and more yellow when it increases.
