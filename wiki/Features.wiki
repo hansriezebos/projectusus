@@ -1,4 +1,7 @@
 #summary Features of the USUS Eclipse plug-ins
+#labels Featured
 
   * YellowCount
     * Visualize the current amount of compiler warnings and other 'yellow' markers in the workspace.
+  * Code Proportions
+    * Code proportions measurements direct your attention to the right places
