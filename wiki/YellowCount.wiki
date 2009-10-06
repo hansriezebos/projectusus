@@ -1,5 +1,4 @@
 #summary Visualize the amount of compiler warnings and other 'yellow' markers in the workspace
-#labels Featured
 
 == What's it about? ==
 
