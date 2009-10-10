@@ -7,7 +7,10 @@ This page contains information about the deployment of the USUS plugin.
 = Prerequisites =
 
    * Install the Eclipse RCP plugin development components
+   ** Note: if you download Eclipse from http://eclipse.org/downloads, you need either the 'Eclipse Classic' download package or the 'Eclipse for RCP/Plug-in developers'
    * Install the !EclEmma plugin from http://update.eclemma.org/
+   * Install the !CheckStyle plugin from http://eclipse-cs.sf.net/update/
+   * Download SWTChart from http://sourceforge.net/projects/swt-chart/files/ and dump the plugin {{{org.swtchart}}} in your {{{dropins/plugins/}}} folder
 
 = Details =
 
