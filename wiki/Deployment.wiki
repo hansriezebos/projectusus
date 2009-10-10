@@ -22,4 +22,4 @@ This page contains information about the deployment of the USUS plugin.
 = Execution =
 
    * Open the "Project Usus" perspective via Window -> Open Perspective -> (Other) -> USUS Project
-   * The former has a refresh button which executes all checks.
+   * The "Cockpit" view has a refresh button which executes all checks, test coverage run via the EclEmma UI updates the coverage information.
