@@ -1,0 +1,10 @@
+#summary Apply common settings and transfer them from one project to another with ease
+
+= What's it about? =
+
+Projects in the Eclipse workspace can comprise many specific settings: compiler warnings, !CheckStyle settings, editor save actions, code formatting rules, and so on. Applying these settings selectively to a project makes sense (they are stored in the project itself and thus under version control; you can change them selectively for individual projects). But then you have to do a lot of manual work on the project settings dialogs. The *Project Settings* feature in Usus makes this task much more convenient.
+
+= How to use it? =
+
+
+= What does it look like? =
