@@ -12,4 +12,4 @@ Best start from the Usus perspective (Window > Open Perspective > (Other) > Proj
 
 In the middle on the left, you see the *Code Proportions Cockpit* View.
 
-http://projectusus.googlecode.com/svn/wiki/img/mainPerspective.png
+<img src="http://projectusus.googlecode.com/svn/wiki/img/mainPerspective.png" width="924">
