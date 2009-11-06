@@ -11,3 +11,5 @@ Measuring code proportions while you code helps you to direct your attention to 
 Best start from the Usus perspective (Window > Open Perspective > (Other) > Project Usus). On the left-hand side (stacked behind the Package Explorer) you see a View called *Projects covered by Usus*. Select some Java projects you're working on.
 
 In the middle on the left, you see the *Code Proportions Cockpit* View.
+
+http://projectusus.googlecode.com/svn/wiki/img/mainPerspective.png
