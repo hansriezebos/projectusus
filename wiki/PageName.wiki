@@ -1,7 +1,0 @@
-#summary The people behind Usus
-
-= Project contributors =
-
-*[http://leiffrenzel.de Leif Frenzel]* is a software developer and agile development coach at [http://andrena.de andrena objects] in Karlsruhe, Germany. 
-
-Leif has worked as developer, architect and project lead at Innoopract (now !EclipseSource) from 2001 to 2007, and as project management coach at Nero from 2007-2009. He has also initiated and maintained Open Source projects building Eclipse support for functional programming languages (Haskell) and distributed revision control (Darcs).
