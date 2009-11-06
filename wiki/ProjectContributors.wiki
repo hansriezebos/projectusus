@@ -1,4 +1,5 @@
 #summary The people behind Usus
+#labels Featured
 
 = Project contributors =
 
