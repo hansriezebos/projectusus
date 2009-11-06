@@ -1,0 +1,9 @@
+#summary Download and install the Usus plugins
+
+= Dependencies =
+
+You first need EclEmma, the code coverage tool. Point your Eclipse Update Manager to http://update.eclemma.org/
+
+= Install Usus =
+
+The update site for Usus is http://projectusus.googlecode.com/svn/updates/
