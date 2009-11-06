@@ -13,3 +13,9 @@ Best start from the Usus perspective (Window > Open Perspective > (Other) > Proj
 In the middle on the left, you see the *Code Proportions Cockpit* View.
 
 <img src="http://projectusus.googlecode.com/svn/wiki/img/mainPerspective.png" width="924">
+
+The *Code Proportions Cockpit* shows the status of the current indicators. They are computed on any resource change in the workspace, but you can force a full re-compute by pressing the 'Refresh' button in the top-right corner of the View.
+
+Whenever a full set of code proportions could be measured (i.e. when both a full computation was done _and_ a coverage launch of the main test suite was run, a checkpoint is saved an plotted on the diagram in the middle of the right-hand side of the perspective (the *Usus History* View).
+
+In addition, you can see the hotspots (highest violations) on the *Usus Hotspots* View (stacked behind the History View).
