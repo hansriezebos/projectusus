@@ -2,7 +2,7 @@
 
 = Dependencies =
 
-You first need EclEmma, the code coverage tool. Point your Eclipse Update Manager to http://update.eclemma.org/
+You first need !EclEmma, the code coverage tool. Point your Eclipse Update Manager to http://update.eclemma.org/
 
 = Install Usus =
 
