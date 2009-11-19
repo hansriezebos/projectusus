@@ -1,9 +1,10 @@
 #summary Features of the USUS Eclipse plug-ins
 #labels Featured
 
-  * *YellowCount*
-    * _Visualize the current amount of compiler warnings and other 'yellow' markers in the workspace_
+
   * *CodeProportions*
     * _Code proportions measurements direct your attention to the right places_
   * *ProjectSettings*
     * _Apply common settings and transfer them from one project to another with ease_
+  * *YellowCount*
+    * _Visualize the current amount of compiler warnings and other 'yellow' markers in the workspace_
