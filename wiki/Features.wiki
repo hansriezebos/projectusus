@@ -4,6 +4,8 @@
 
   * *CodeProportions*
     * _Code proportions measurements direct your attention to the right places_
+  * *Bug prison*
+    * _Detain your bugs in the bug prison_
   * *ProjectSettings*
     * _Apply common settings and transfer them from one project to another with ease_
   * *YellowCount*
