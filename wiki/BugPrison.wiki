@@ -1,0 +1,11 @@
+#summary Detain your bugs in the bug prison
+
+= What's it about? =
+
+With bug prison you can collect bug informations from your bugs in your Eclipse IDE.
+
+
+= How to use it? =
+
+If you fix a bug, just open the contect menu in the Java Editor, where the bug occured.
+
