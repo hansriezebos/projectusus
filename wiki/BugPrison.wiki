@@ -15,4 +15,8 @@ Code metrics for the location of the bug are filled in the dialog. You can enter
 
 
 <img src="http://projectusus.googlecode.com/svn/wiki/img/reportBugWizard.PNG" >
+
+You can watch all your reported bugs in a the Bugs View:
+<img src="http://projectusus.googlecode.com/svn/wiki/img/bugsViewPNG" >
+
  
