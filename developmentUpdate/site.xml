@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.projectusus_0.1.1.jar" id="org.projectusus" version="0.1.1">
+      <category name="projectusus.org"/>
+   </feature>
+   <feature url="features/org.projectusus_0.2.0.jar" id="org.projectusus" version="0.2.0">
+      <category name="projectusus.org"/>
+   </feature>
+   <category-def name="projectusus.org" label="Project Usus">
+      <description>
+         The goal of this project is to provide Eclipse Plug-Ins that help to integrate common compiler and formatter settings in the Eclipse workspace, support Checkstyle, EclEmma and other tools, and apply some OO design metrics to analyse weak spots in the code. 
+
+These settings, tool configurations and metrics reflect the &apos;usus&apos; (common practice) in projects we&apos;ve worked in and have proved useful; we want to integrate them in order to have them handy all the time.
+      </description>
+   </category-def>
+</site>
