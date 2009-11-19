@@ -19,4 +19,9 @@ Code metrics for the location of the bug are filled in the dialog. You can enter
 You can watch all your reported bugs in a the Bugs View:
 <img src="http://projectusus.googlecode.com/svn/wiki/img/bugsView.PNG" >
 
+
+Your can watch average Bug Metric values and compare them with the average metric values from your project.
+
+<img src="http://projectusus.googlecode.com/svn/wiki/img/averageCodeProportions.PNG" >
+
  
