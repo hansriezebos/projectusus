@@ -1,4 +1,6 @@
-#Other Features
+#summary Code proportions measurements direct your attention to the right places
+
+= Other Features =
 
   * *BugPrison*
     * _Detain your bugs in the bug prison_
@@ -7,7 +9,6 @@
   * *YellowCount*
     * _Visualize the current amount of compiler warnings and other 'yellow' markers in the workspace_
 
-#summary Code proportions measurements direct your attention to the right places
 
 = What's it about? =
 
