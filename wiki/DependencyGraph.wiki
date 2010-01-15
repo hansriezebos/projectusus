@@ -2,9 +2,16 @@
 
 = What's it about? =
 
+Click the refresh button in the dependency graph to show all classes of the system.
+In most cases the graph of the system will be very big.
+You can also move the classes in the view with drag and drop.
+If you click a second time on the refresh button, the graph will be repainted with another random layout.
 
 <img src="http://projectusus.googlecode.com/svn/wiki/img/bigDepencyview.PNG" width="924">
 
-<img src="http://projectusus.googlecode.com/svn/wiki/img/smallDepencyview.PNG" width="924">
+In order to find classes with lots of dependcies just increase the treshold.
+With a bigger treshhold the size of the graph will be much smaller and faster.
+You can increase the treshhold in the upper left of the dependency graph view.
 
-= How to use it? =
+
+<img src="http://projectusus.googlecode.com/svn/wiki/img/smallDepencyview.PNG" width="924">
