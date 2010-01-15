@@ -14,4 +14,4 @@ With a bigger treshhold the size of the graph will be much smaller and faster.
 You can increase the treshhold in the upper left of the dependency graph view.
 
 
-<img src="http://projectusus.googlecode.com/svn/wiki/img/smallDepencyview.PNG" width="924">
+<img src="http://projectusus.googlecode.com/svn/wiki/img/smallDependencyGraph.PNG" width="924">
