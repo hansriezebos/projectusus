@@ -4,6 +4,8 @@
 
   * *CodeProportions*
     * _Code proportions measurements direct your attention to the right places_
+  * *Dependency Graph*
+    * _Shows a dependcy graph of the classes_
   * *BugPrison*
     * _Detain your bugs in the bug prison_
   * *ProjectSettings*
