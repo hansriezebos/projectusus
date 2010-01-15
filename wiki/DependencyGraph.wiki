@@ -1,0 +1,10 @@
+#Shows a dependency graph of the classes
+
+= What's it about? =
+
+
+<img src="http://projectusus.googlecode.com/svn/wiki/img/bigDepencyview.PNG" width="924">
+
+<img src="http://projectusus.googlecode.com/svn/wiki/img/smallDepencyview.PNG" width="924">
+
+= How to use it? =
