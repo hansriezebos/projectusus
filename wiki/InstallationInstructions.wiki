@@ -7,3 +7,9 @@ You first need !EclEmma, the code coverage tool. Point your Eclipse Update Manag
 = Install Usus =
 
 The update site for Usus is http://projectusus.googlecode.com/svn/updates/
+
+= Install Usus Dependency Graph Feature =
+
+To get visualizations for class dependencies and cyclic package dependencies, you need to install ZEST. You can download it from the update site http://download.eclipse.org/tools/gef/updates/releases/ . Select the two features
+  * Graphical Editing Framework Zest Visualization Toolkit
+  * Graphical Editing Framework Zest Visualization Toolkit SDK
