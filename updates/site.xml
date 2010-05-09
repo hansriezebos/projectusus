@@ -12,6 +12,12 @@
    <feature url="features/org.projectusus.ui.dependencygraph.feature_0.4.0.jar" id="org.projectusus.ui.dependencygraph.feature" version="0.4">
       <category name="projectusus.org"/>
    </feature>
+   <feature url="features/org.projectusus_0.4.1.jar" id="org.projectusus" version="0.4.1">
+      <category name="projectusus.org"/>
+   </feature>
+   <feature url="features/org.projectusus.ui.dependencygraph.feature_0.4.1.jar" id="org.projectusus.ui.dependencygraph.feature" version="0.4.1">
+      <category name="projectusus.org"/>
+   </feature>
    <category-def name="projectusus.org" label="Project Usus">
       <description>
          The goal of this project is to provide Eclipse Plug-Ins that help to integrate common compiler and formatter settings in the Eclipse workspace, support Checkstyle, EclEmma and other tools, and apply some OO design metrics to analyse weak spots in the code. 
