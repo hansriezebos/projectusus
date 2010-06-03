@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+   <description name="Project Usus DEVELOPMENT Updates">
+      Update Site for Usus Developers
+   </description>
    <feature url="features/org.projectusus_0.1.1.jar" id="org.projectusus" version="0.1.1">
       <category name="projectusus.org"/>
    </feature>
