@@ -1,4 +1,5 @@
 #summary Download and install the Usus plugins
+#labels Featured
 
 = Quick Installation =
 
