@@ -1,15 +1,34 @@
 #summary Download and install the Usus plugins
 
-= Dependencies =
+= Quick Installation =
+
+  # *Add the following update sites:*
+    * http://projectusus.googlecode.com/svn/updates/ (Project Usus)
+    * http://update.eclemma.org/ (!EclEmma)
+  # *Select the following features:*
+    * _!EclEmma Java Code Coverage_ (from !EclEmma)
+    * _Project Usus_
+    * _Project Usus Dependency Graph_ (optional)
+  # *Start the installation!*
+
+A picture is worth a thousand words:
+
+[http://projectusus.googlecode.com/svn/wiki/img/updateManager.png http://projectusus.googlecode.com/svn/wiki/img/updateManager_small.png]
+
+
+----
+
+
+= Details =
+
+== Dependencies ==
 
 You first need !EclEmma, the code coverage tool. Point your Eclipse Update Manager to http://update.eclemma.org/
 
-= Install Usus =
+== Install Usus ==
 
 The update site for Usus is http://projectusus.googlecode.com/svn/updates/
 
-= Install Usus Dependency Graph Feature =
+== Install Usus Dependency Graph Feature ==
 
-To get visualizations for class dependencies and cyclic package dependencies, you need to install ZEST. You can download it from the update site http://download.eclipse.org/tools/gef/updates/releases/ . Select the two features
-  * Graphical Editing Framework Zest Visualization Toolkit
-  * Graphical Editing Framework Zest Visualization Toolkit SDK
+To get visualizations for class dependencies and cyclic package dependencies, you need to install Zest along with Usus.  Zest is available from the [http://wiki.eclipse.org/Eclipse_Project_Update_Sites Eclipse release update site] corresponding to your Eclipse installation. This update site is enabled by default, i.e. Eclipse will find Zest automatically, the required Zest features do not have to be selected manually.
