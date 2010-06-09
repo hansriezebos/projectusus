@@ -1,4 +1,4 @@
-#Shows a dependency graph of the classes
+#summary Shows a dependency graph of the classes
 
 = What's it about? =
 
