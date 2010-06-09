@@ -1,4 +1,5 @@
 #summary Information about the deployment of the USUS plugin.
+#labels Deprecated
 
 = Introduction =
 
