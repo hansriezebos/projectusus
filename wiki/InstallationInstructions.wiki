@@ -3,13 +3,12 @@
 
 = Quick Installation =
 
-  # *Add the following update sites:*
-    * http://projectusus.googlecode.com/svn/updates/ (Project Usus)
-    * http://update.eclemma.org/ (!EclEmma)
-  # *Select the following features:*
-    * _!EclEmma Java Code Coverage_ (from !EclEmma)
-    * _Project Usus_
+  # *Add the Project Usus update sites:*
+    * http://projectusus.googlecode.com/svn/updates/
+  # *Select some features:*
+    * _Project Usus_ (required)
     * _Project Usus Dependency Graph_ (optional)
+    * _Project Usus Bug Prison_ (optional)
   # *Start the installation!*
 
 A picture is worth a thousand words:
@@ -21,10 +20,6 @@ A picture is worth a thousand words:
 
 
 = Details =
-
-== Dependencies ==
-
-You first need !EclEmma, the code coverage tool. Point your Eclipse Update Manager to http://update.eclemma.org/
 
 == Install Usus ==
 
