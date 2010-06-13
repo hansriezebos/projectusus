@@ -3,7 +3,7 @@
 
 = Quick Installation =
 
-  # *Add the Project Usus update sites:*
+  # *Add the Project Usus update site:*
     * http://projectusus.googlecode.com/svn/updates/
   # *Select some features:*
     * _Project Usus_ (required)
