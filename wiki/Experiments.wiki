@@ -1,1 +1,6 @@
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://twitter.com/statuses/user_timeline/176506311.rss" width="500px" height="500px" border="0"/>
+
+
+
+<wiki:gadget title="XXX" url="http://eclipse-marketplace-gadgets.googlecode.com/svn/files/favorite/v1/gadget.xml" 
+width ="200" height ="70" up_nodeNo="776" border="0"/>
