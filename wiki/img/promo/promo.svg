@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="587"
+   height="402"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="cockpit-promo.svg"
+   inkscape:export-filename="/Users/marc/Desktop/cockpit-promo-small.png"
+   inkscape:export-xdpi="36.044777"
+   inkscape:export-ydpi="36.044777">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3623">
+      <stop
+         style="stop-color:#f1f1f1;stop-opacity:1;"
+         offset="0"
+         id="stop3625" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3627" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2824"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3639"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3653"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3669"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3704"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3028"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3623"
+       id="linearGradient3128"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(599.99999,0)"
+       x1="350"
+       y1="331.36218"
+       x2="350"
+       y2="733.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3623"
+       id="linearGradient3142"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-6e-6,0)"
+       x1="350"
+       y1="331.36218"
+       x2="350"
+       y2="733.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3623"
+       id="linearGradient3156"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-600.00001,0)"
+       x1="350"
+       y1="331.36218"
+       x2="350"
+       y2="733.36218" />
+    <inkscape:perspective
+       id="perspective3319"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3623"
+       id="linearGradient3353"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-600.00001,419.44444)"
+       x1="350"
+       y1="331.36218"
+       x2="350"
+       y2="733.36218" />
+    <inkscape:perspective
+       id="perspective3402"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3479"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3623"
+       id="linearGradient3495"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1e-5,415.44444)"
+       x1="350"
+       y1="331.36218"
+       x2="350"
+       y2="733.36218" />
+    <inkscape:perspective
+       id="perspective3562"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3623"
+       id="linearGradient2915"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(599.99999,415.44444)"
+       x1="350"
+       y1="331.36218"
+       x2="350"
+       y2="733.36218" />
+    <inkscape:perspective
+       id="perspective2982"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3053"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3623"
+       id="linearGradient3075"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1e-5,415.44444)"
+       x1="350"
+       y1="331.36218"
+       x2="350"
+       y2="733.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3623"
+       id="linearGradient3087"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-600.00001,415.44444)"
+       x1="350"
+       y1="331.36218"
+       x2="350"
+       y2="733.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3623"
+       id="linearGradient3147"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(599.99999,0)"
+       x1="350"
+       y1="331.36218"
+       x2="350"
+       y2="733.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3623"
+       id="linearGradient3171"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-600.00001,0)"
+       x1="350"
+       y1="331.36218"
+       x2="350"
+       y2="733.36218" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4"
+     inkscape:cx="640.68853"
+     inkscape:cy="-1.1285374"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1332"
+     inkscape:window-height="956"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     borderlayer="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-56.499994,-331.36218)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3607"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(56.5,331.36218)"><flowRegion
+         id="flowRegion3609"><rect
+           id="rect3611"
+           width="546.49255"
+           height="63.63961"
+           x="20.203051"
+           y="12.081118"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3613" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-247.57031"
+       y="-66.507919"
+       id="text3710"><tspan
+         sodipodi:role="line"
+         id="tspan3712"
+         x="-247.57031"
+         y="-66.507919">Large: 90 DPI</tspan><tspan
+         sodipodi:role="line"
+         x="-247.57031"
+         y="-16.507919"
+         id="tspan3714">Small: 36 DPI</tspan><tspan
+         sodipodi:role="line"
+         x="-247.57031"
+         y="33.492081"
+         id="tspan3716" /><tspan
+         sodipodi:role="line"
+         x="-247.57031"
+         y="83.492065"
+         id="tspan3718">Reflection: 30 px</tspan></text>
+    <g
+       id="g3173"
+       inkscape:export-filename="/Users/marc/Documents/Projekte/USUS/promo/cockpit-promo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:url(#linearGradient3171);fill-opacity:1;stroke:#e4e4e4;stroke-width:1.99165213;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -526.40275,332.35801 c -8.92361,0 -16.10143,7.16657 -16.10143,16.07621 l 0,367.82483 c 0,8.90963 7.17782,16.10731 16.10143,16.10731 l 552.80549,0 c 8.92362,0 16.10144,-7.19768 16.10144,-16.10731 l 0,-367.82483 c 0,-8.90964 -7.17782,-16.07621 -16.10144,-16.07621 l -552.80549,0 z"
+         id="path2902" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2904"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+         transform="translate(-538.41699,323.36218)"><flowRegion
+           id="flowRegion2906"><rect
+             id="rect2908"
+             width="523.25897"
+             height="60.609158"
+             x="28.284271"
+             y="22.182644"
+             style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia" /></flowRegion><flowPara
+           id="flowPara2910"
+           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia">The Cockpit.</flowPara></flowRoot>      <image
+         sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/cockpit-reflection.png"
+         xlink:href="cockpit-reflection.png"
+         y="473.36218"
+         x="-498.5"
+         id="image2912"
+         height="254"
+         width="497" />
+      <flowRoot
+         transform="translate(-538.41699,385.36218)"
+         style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+         id="flowRoot2914"
+         xml:space="preserve"><flowRegion
+           id="flowRegion2916"><rect
+             style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+             y="22.182644"
+             x="28.284271"
+             height="60.609158"
+             width="523.25897"
+             id="rect2918" /></flowRegion><flowPara
+           style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+           id="flowPara2920">instant feedback at a glance</flowPara></flowRoot>    </g>
+    <g
+       id="g3125"
+       inkscape:export-filename="/Users/marc/Documents/Projekte/USUS/promo/hotspots-promo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="rect2830"
+         d="m 73.597254,332.35801 c -8.923611,0 -16.101433,7.16657 -16.101433,16.07621 l 0,367.82483 c 0,8.90963 7.177822,16.10731 16.101433,16.10731 l 552.805486,0 c 8.92362,0 16.10144,-7.19768 16.10144,-16.10731 l 0,-367.82483 c 0,-8.90964 -7.17782,-16.07621 -16.10144,-16.07621 l -552.805486,0 z"
+         style="fill:url(#linearGradient3142);fill-opacity:1;stroke:#e4e4e4;stroke-width:1.99165213;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         transform="translate(61.583008,323.36218)"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+         id="flowRoot3615"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3617"><rect
+             style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia"
+             y="22.182644"
+             x="28.284271"
+             height="60.609158"
+             width="523.25897"
+             id="rect3619" /></flowRegion><flowPara
+           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia"
+           id="flowPara3621">Hotspots.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2836"
+         style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+         transform="translate(61.583008,385.36218)"><flowRegion
+           id="flowRegion2838"><rect
+             id="rect2840"
+             width="523.25897"
+             height="60.609158"
+             x="28.284271"
+             y="22.182644"
+             style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic" /></flowRegion><flowPara
+           id="flowPara2842"
+           style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic">identify week spots in your code</flowPara></flowRoot>      <image
+         sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/hotspots-reflection.png"
+         xlink:href="hotspots-reflection.png"
+         width="497"
+         height="257"
+         id="image3030"
+         x="101.49999"
+         y="472.36218" />
+    </g>
+    <g
+       id="g3149"
+       inkscape:export-filename="/Users/marc/Documents/Projekte/USUS/promo/class-graph-promo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:url(#linearGradient3147);fill-opacity:1;stroke:#e4e4e4;stroke-width:1.99165213;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 673.59725,332.35801 c -8.92361,0 -16.10143,7.16657 -16.10143,16.07621 l 0,367.82483 c 0,8.90963 7.17782,16.10731 16.10143,16.10731 l 552.80545,0 c 8.9237,0 16.1015,-7.19768 16.1015,-16.10731 l 0,-367.82483 c 0,-8.90964 -7.1778,-16.07621 -16.1015,-16.07621 l -552.80545,0 z"
+         id="path3060" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3062"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+         transform="translate(661.58301,323.36218)"><flowRegion
+           id="flowRegion3064"><rect
+             id="rect3066"
+             width="523.25897"
+             height="60.609158"
+             x="28.284271"
+             y="22.182644"
+             style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia" /></flowRegion><flowPara
+           id="flowPara3068"
+           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia">Dependency Graphs.</flowPara></flowRoot>      <flowRoot
+         transform="translate(652.97657,385.36218)"
+         style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+         id="flowRoot3070"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3072"><rect
+             style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+             y="22.182644"
+             x="28.284271"
+             height="60.609158"
+             width="537.25891"
+             id="rect3074" /></flowRegion><flowPara
+           style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+           id="flowPara3076">visualize class &amp; package dependencies</flowPara></flowRoot>      <image
+         sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/class-graph-reflection.png"
+         xlink:href="class-graph-reflection.png"
+         y="473.36218"
+         x="701.5"
+         id="image3078"
+         height="254"
+         width="497" />
+    </g>
+    <g
+       id="g3089"
+       inkscape:export-filename="/Users/marc/Documents/Projekte/USUS/promo/presenter-promo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path3172"
+         d="m -526.40275,747.80245 c -8.92361,0 -16.10143,7.16657 -16.10143,16.07621 l 0,367.82484 c 0,8.9096 7.17782,16.1073 16.10143,16.1073 l 552.80545,0 c 8.9237,0 16.1015,-7.1977 16.1015,-16.1073 l 0,-367.82484 c 0,-8.90964 -7.1778,-16.07621 -16.1015,-16.07621 l -552.80545,0 z"
+         style="fill:url(#linearGradient3087);fill-opacity:1;stroke:#e4e4e4;stroke-width:1.99165213;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         transform="translate(-538.417,738.80662)"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+         id="flowRoot3174"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3176"><rect
+             style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia"
+             y="22.182644"
+             x="28.284271"
+             height="60.609158"
+             width="523.25897"
+             id="rect3178" /></flowRegion><flowPara
+           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia"
+           id="flowPara3180">Info Presenter.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3182"
+         style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+         transform="translate(-547.02344,800.80662)"><flowRegion
+           id="flowRegion3184"><rect
+             id="rect3186"
+             width="537.25891"
+             height="60.609158"
+             x="28.284271"
+             y="22.182644"
+             style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic" /></flowRegion><flowPara
+           id="flowPara3188"
+           style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic">view current metrics right in the editor</flowPara></flowRoot>      <image
+         sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/presenter-reflection.png"
+         xlink:href="presenter-reflection.png"
+         width="349"
+         height="214"
+         id="image3321"
+         x="-424.5"
+         y="902.80664" />
+    </g>
+    <g
+       id="g3101"
+       inkscape:export-filename="/Users/marc/Documents/Projekte/USUS/promo/alltestssuite-promo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path3410"
+         d="m 73.59725,747.80245 c -8.92361,0 -16.10143,7.16657 -16.10143,16.07621 l 0,367.82484 c 0,8.9096 7.17782,16.1073 16.10143,16.1073 l 552.80549,0 c 8.92362,0 16.10144,-7.1977 16.10144,-16.1073 l 0,-367.82484 c 0,-8.90964 -7.17782,-16.07621 -16.10144,-16.07621 l -552.80549,0 z"
+         style="fill:url(#linearGradient3075);fill-opacity:1;stroke:#e4e4e4;stroke-width:1.99165213;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         transform="translate(61.58301,738.80662)"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+         id="flowRoot3412"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3414"><rect
+             style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia"
+             y="22.182644"
+             x="28.284271"
+             height="60.609158"
+             width="523.25897"
+             id="rect3416" /></flowRegion><flowPara
+           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia"
+           id="flowPara3418">Automatic Test Suites.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3422"
+         style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+         transform="translate(61.58301,800.80662)"><flowRegion
+           id="flowRegion3424"><rect
+             id="rect3426"
+             width="523.25897"
+             height="60.609158"
+             x="28.284271"
+             y="22.182644"
+             style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic" /></flowRegion><flowPara
+           id="flowPara3428"
+           style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic">run all unit tests in multiple projects</flowPara></flowRoot>      <image
+         sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/alltestssuite.png"
+         xlink:href="alltestssuite.png"
+         y="881.24988"
+         x="96.198303"
+         id="image3564"
+         height="239"
+         width="507" />
+    </g>
+    <g
+       id="g3113"
+       inkscape:export-filename="/Users/marc/Documents/Projekte/USUS/promo/copy-project-settings-promo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:url(#linearGradient2915);fill-opacity:1;stroke:#e4e4e4;stroke-width:1.99165213;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 673.59725,747.80245 c -8.92361,0 -16.10143,7.16657 -16.10143,16.07621 l 0,367.82484 c 0,8.9096 7.17782,16.1073 16.10143,16.1073 l 552.80545,0 c 8.9237,0 16.1015,-7.1977 16.1015,-16.1073 l 0,-367.82484 c 0,-8.90964 -7.1778,-16.07621 -16.1015,-16.07621 l -552.80545,0 z"
+         id="path3582" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3584"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+         transform="translate(661.58301,738.80662)"><flowRegion
+           id="flowRegion3586"><rect
+             id="rect3588"
+             width="523.25897"
+             height="60.609158"
+             x="28.284271"
+             y="22.182644"
+             style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia" /></flowRegion><flowPara
+           id="flowPara3590"
+           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia">Share Project Settings.</flowPara></flowRoot>      <flowRoot
+         transform="translate(661.58301,800.80662)"
+         style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+         id="flowRoot3592"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3594"><rect
+             style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+             y="22.182644"
+             x="28.284271"
+             height="60.609158"
+             width="523.25897"
+             id="rect3596" /></flowRegion><flowPara
+           style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
+           id="flowPara3598">copy  settings between projects</flowPara></flowRoot>      <image
+         sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/copy-project-settings-reflection.png"
+         xlink:href="copy-project-settings-reflection.png"
+         y="877.34747"
+         x="763.5"
+         id="image3055"
+         height="268"
+         width="373" />
+    </g>
+  </g>
+</svg>
