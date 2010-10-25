@@ -13,7 +13,7 @@ Read more about the [Features] (with Screenshots), or simply [InstallationInstru
 [http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo-small.png]
 [http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo-small.png]
 
-== Further information ==
+== Further Information ==
 
 If you want to stay in contact with Project Usus, you can follow it on Twitter at http://twitter.com/projectusus . We will post all releases as well as other information related to Usus.
 
