@@ -6,12 +6,12 @@ The goal of this project is to provide Eclipse Plug-Ins that help to integrate c
 
 Read more about the [Features] (with Screenshots), or simply [InstallationInstructions download and install].
 
-[http://marcphilipp.de/usus/cockpit-promo.png http://marcphilipp.de/usus/cockpit-promo-small.png]
-[http://marcphilipp.de/usus/hotspots-promo.png http://marcphilipp.de/usus/hotspots-promo-small.png]
-[http://marcphilipp.de/usus/class-graph-promo.png http://marcphilipp.de/usus/class-graph-promo-small.png]
-[http://marcphilipp.de/usus/presenter-promo.png http://marcphilipp.de/usus/presenter-promo-small.png]
-[http://marcphilipp.de/usus/alltestssuite-promo.png http://marcphilipp.de/usus/alltestssuite-promo-small.png]
-[http://marcphilipp.de/usus/copy-project-settings-promo.png http://marcphilipp.de/usus/copy-project-settings-promo-small.png]
+[http://projectusus.googlecode.com/svn/wiki/img/promo/cockpit-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/cockpit-promo-small.png]
+[http://projectusus.googlecode.com/svn/wiki/img/promo/hotspots-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/hotspots-promo-small.png]
+[http://projectusus.googlecode.com/svn/wiki/img/promo/class-graph-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/class-graph-promo-small.png]
+[http://projectusus.googlecode.com/svn/wiki/img/promo/presenter-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/presenter-promo-small.png]
+[http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo-small.png]
+[http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo-small.png]
 
 == Further information ==
 
