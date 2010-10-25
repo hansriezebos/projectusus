@@ -1,6 +1,10 @@
-<wiki:gadget url="http://eclipse-marketplace-gadgets.googlecode.com/svn/files/favorite/v1/gadget.xml" up_nodeNo="1089" width="200px" height="70px" border="0"/>
+Common coding and design practices in software projects are a good thing. To support them, there is a number of helpful tools around, such as static code analyzers, test coverage tools, code formatters and so on.
 
-= Promo =
+The goal of this project is to provide Eclipse Plug-Ins that help to integrate common compiler and formatter settings in the Eclipse workspace, support [http://eclipse-cs.sourceforge.net/ Checkstyle], [http://www.eclemma.org/ EclEmma] and other tools, and apply some OO design metrics to analyse weak spots in the code. These settings, tool configurations and metrics reflect the 'usus' (common practice) in projects we've worked in and have proven useful; we want to integrate them in order to have them handy all the time.
+
+== Installation ==
+
+Read more about the [Features] (with Screenshots), or simply [InstallationInstructions download and install].
 
 [http://marcphilipp.de/usus/cockpit-promo.png http://marcphilipp.de/usus/cockpit-promo-small.png]
 [http://marcphilipp.de/usus/hotspots-promo.png http://marcphilipp.de/usus/hotspots-promo-small.png]
@@ -8,3 +12,9 @@
 [http://marcphilipp.de/usus/presenter-promo.png http://marcphilipp.de/usus/presenter-promo-small.png]
 [http://marcphilipp.de/usus/alltestssuite-promo.png http://marcphilipp.de/usus/alltestssuite-promo-small.png]
 [http://marcphilipp.de/usus/copy-project-settings-promo.png http://marcphilipp.de/usus/copy-project-settings-promo-small.png]
+
+== Further information ==
+
+If you want to stay in contact with Project Usus, you can follow it on Twitter at http://twitter.com/projectusus . We will post all releases as well as other information related to Usus.
+
+<wiki:gadget url="http://eclipse-marketplace-gadgets.googlecode.com/svn/files/favorite/v1/gadget.xml" up_nodeNo="1089" width="200px" height="70px" border="0"/>
