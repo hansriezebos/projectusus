@@ -1,1 +1,10 @@
 <wiki:gadget url="http://eclipse-marketplace-gadgets.googlecode.com/svn/files/favorite/v1/gadget.xml" up_nodeNo="1089" width="200px" height="70px" border="0"/>
+
+= Promo =
+
+[http://marcphilipp.de/usus/cockpit-promo.png http://marcphilipp.de/usus/cockpit-promo-small.png]
+[http://marcphilipp.de/usus/hotspots-promo.png http://marcphilipp.de/usus/hotspots-promo-small.png]
+[http://marcphilipp.de/usus/class-graph-promo.png http://marcphilipp.de/usus/class-graph-promo-small.png]
+[http://marcphilipp.de/usus/presenter-promo.png http://marcphilipp.de/usus/presenter-promo-small.png]
+[http://marcphilipp.de/usus/alltestssuite-promo.png http://marcphilipp.de/usus/alltestssuite-promo-small.png]
+[http://marcphilipp.de/usus/copy-project-settings-promo.png http://marcphilipp.de/usus/copy-project-settings-promo-small.png]
