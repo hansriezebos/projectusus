@@ -1,10 +1,14 @@
-Common coding and design practices in software projects are a good thing. To support them, there is a number of helpful tools around, such as static code analyzers, test coverage tools, code formatters and so on.
-
-The goal of this project is to provide Eclipse Plug-Ins that help to integrate common compiler and formatter settings in the Eclipse workspace, support [http://eclipse-cs.sourceforge.net/ Checkstyle], [http://www.eclemma.org/ EclEmma] and other tools, and apply some OO design metrics to analyse weak spots in the code. These settings, tool configurations and metrics reflect the 'usus' (common practice) in projects we've worked in and have proven useful; we want to integrate them in order to have them handy all the time.
-
-== Installation ==
-
-Read more about the [Features] (with Screenshots), or simply [InstallationInstructions download and install].
+<table border="0" cellspacing="5">
+<tr>
+<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/cockpit-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/cockpit-promo-small.png" width="235" height="161"/></a></td>
+<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/hotspots-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/hotspots-promo-small.png" width="235" height="161"/></a></td>
+<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/class-graph-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/class-graph-promo-small.png" width="235" height="161"/></a></td>
+</tr><tr>
+<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/presenter-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/presenter-promo-small.png" width="235" height="161"/></a></td>
+<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo-small.png" width="235" height="161"/></a></td>
+<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo-small.png" width="235" height="161"/></a></td>
+</tr>
+</table>
 
 [http://projectusus.googlecode.com/svn/wiki/img/promo/cockpit-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/cockpit-promo-small.png]
 [http://projectusus.googlecode.com/svn/wiki/img/promo/hotspots-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/hotspots-promo-small.png]
@@ -12,9 +16,5 @@ Read more about the [Features] (with Screenshots), or simply [InstallationInstru
 [http://projectusus.googlecode.com/svn/wiki/img/promo/presenter-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/presenter-promo-small.png]
 [http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo-small.png]
 [http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo-small.png]
-
-== Further Information ==
-
-If you want to stay in contact with Project Usus, you can follow it on Twitter at http://twitter.com/projectusus . We will post all releases as well as other information related to Usus.
 
 <wiki:gadget url="http://eclipse-marketplace-gadgets.googlecode.com/svn/files/favorite/v1/gadget.xml" up_nodeNo="1089" width="200px" height="70px" border="0"/>
