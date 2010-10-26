@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="cockpit-promo.svg"
+   sodipodi:docname="promo.svg"
    inkscape:export-filename="/Users/marc/Desktop/cockpit-promo-small.png"
    inkscape:export-xdpi="36.044777"
    inkscape:export-ydpi="36.044777">
@@ -323,11 +323,11 @@
            style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Georgia;-inkscape-font-specification:Georgia">The Cockpit.</flowPara></flowRoot>      <image
          sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/cockpit-reflection.png"
          xlink:href="cockpit-reflection.png"
-         y="473.36218"
-         x="-498.5"
-         id="image2912"
+         width="497"
          height="254"
-         width="497" />
+         id="image2912"
+         x="-498.5"
+         y="473.36218" />
       <flowRoot
          transform="translate(-538.41699,385.36218)"
          style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
@@ -377,14 +377,14 @@
              y="22.182644"
              style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic" /></flowRegion><flowPara
            id="flowPara2842"
-           style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic">identify week spots in your code</flowPara></flowRoot>      <image
+           style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic">identify weak spots in your code</flowPara></flowRoot>      <image
          sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/hotspots-reflection.png"
          xlink:href="hotspots-reflection.png"
-         width="497"
-         height="257"
-         id="image3030"
+         y="472.36218"
          x="101.49999"
-         y="472.36218" />
+         id="image3030"
+         height="257"
+         width="497" />
     </g>
     <g
        id="g3149"
@@ -424,11 +424,11 @@
            id="flowPara3076">visualize class &amp; package dependencies</flowPara></flowRoot>      <image
          sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/class-graph-reflection.png"
          xlink:href="class-graph-reflection.png"
-         y="473.36218"
-         x="701.5"
-         id="image3078"
+         width="497"
          height="254"
-         width="497" />
+         id="image3078"
+         x="701.5"
+         y="473.36218" />
     </g>
     <g
        id="g3089"
@@ -468,11 +468,11 @@
            style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic">view current metrics right in the editor</flowPara></flowRoot>      <image
          sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/presenter-reflection.png"
          xlink:href="presenter-reflection.png"
-         width="349"
-         height="214"
-         id="image3321"
+         y="902.80664"
          x="-424.5"
-         y="902.80664" />
+         id="image3321"
+         height="214"
+         width="349" />
     </g>
     <g
        id="g3101"
@@ -512,11 +512,11 @@
            style="font-size:30px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Georgia;-inkscape-font-specification:Georgia Italic">run all unit tests in multiple projects</flowPara></flowRoot>      <image
          sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/alltestssuite.png"
          xlink:href="alltestssuite.png"
-         y="881.24988"
-         x="96.198303"
-         id="image3564"
+         width="507"
          height="239"
-         width="507" />
+         id="image3564"
+         x="96.198303"
+         y="881.24988" />
     </g>
     <g
        id="g3113"
@@ -556,11 +556,11 @@
            id="flowPara3598">copy  settings between projects</flowPara></flowRoot>      <image
          sodipodi:absref="/Users/marc/Documents/Projekte/USUS/promo/copy-project-settings-reflection.png"
          xlink:href="copy-project-settings-reflection.png"
-         y="877.34747"
-         x="763.5"
-         id="image3055"
+         width="373"
          height="268"
-         width="373" />
+         id="image3055"
+         x="763.5"
+         y="877.34747" />
     </g>
   </g>
 </svg>
