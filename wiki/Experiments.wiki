@@ -1,20 +1,3 @@
-<table border="0" cellspacing="5">
-<tr>
-<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/cockpit-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/cockpit-promo-small.png" width="235" height="161"/></a></td>
-<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/hotspots-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/hotspots-promo-small.png" width="235" height="161"/></a></td>
-<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/class-graph-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/class-graph-promo-small.png" width="235" height="161"/></a></td>
-</tr><tr>
-<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/presenter-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/presenter-promo-small.png" width="235" height="161"/></a></td>
-<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo-small.png" width="235" height="161"/></a></td>
-<td><a href="http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo.png"><img src="http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo-small.png" width="235" height="161"/></a></td>
-</tr>
-</table>
-
-[http://projectusus.googlecode.com/svn/wiki/img/promo/cockpit-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/cockpit-promo-small.png]
-[http://projectusus.googlecode.com/svn/wiki/img/promo/hotspots-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/hotspots-promo-small.png]
-[http://projectusus.googlecode.com/svn/wiki/img/promo/class-graph-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/class-graph-promo-small.png]
-[http://projectusus.googlecode.com/svn/wiki/img/promo/presenter-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/presenter-promo-small.png]
-[http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/alltestssuite-promo-small.png]
-[http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo.png http://projectusus.googlecode.com/svn/wiki/img/promo/copy-project-settings-promo-small.png]
+<font face="Georgia, serif" size="5">Usus </font><font face="Georgia, serif" size="3" color="gray">\ˈuːzʊs\</font>
 
 <wiki:gadget url="http://eclipse-marketplace-gadgets.googlecode.com/svn/files/favorite/v1/gadget.xml" up_nodeNo="1089" width="200px" height="70px" border="0"/>
