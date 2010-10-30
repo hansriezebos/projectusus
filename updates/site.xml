@@ -59,6 +59,15 @@ These settings, tool configurations and metrics reflect the &apos;usus&apos; (co
    <feature url="features/org.projectusus.autotestsuite_0.6.1.jar" id="org.projectusus.autotestsuite" version="0.6.1">
       <category name="projectusus.org"/>
    </feature>
+   <feature url="features/org.projectusus_0.6.2.jar" id="org.projectusus" version="0.6.2">
+      <category name="projectusus.org"/>
+   </feature>
+   <feature url="features/org.projectusus.autotestsuite_0.6.2.jar" id="org.projectusus.autotestsuite" version="0.6.2">
+      <category name="projectusus.org"/>
+   </feature>
+   <feature url="features/org.projectusus.bugprison_0.6.2.jar" id="org.projectusus.bugprison" version="0.6.2">
+      <category name="projectusus.org"/>
+   </feature>
    <category-def name="projectusus.org" label="Project Usus">
       <description>
          The goal of this project is to provide Eclipse Plug-Ins that help to integrate common compiler and formatter settings in the Eclipse workspace, support Checkstyle, EclEmma and other tools, and apply some OO design metrics to analyse weak spots in the code. 
