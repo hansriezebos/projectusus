@@ -13,17 +13,3 @@
 A picture is worth a thousand words:
 
 [http://projectusus.googlecode.com/svn/wiki/img/updateManager.png http://projectusus.googlecode.com/svn/wiki/img/updateManager_small.png]
-
-
-----
-
-
-= Details =
-
-== Install Usus ==
-
-The update site for Usus is http://projectusus.googlecode.com/svn/updates/
-
-== Install Usus Dependency Graph Feature ==
-
-To get visualizations for class dependencies and cyclic package dependencies, you need to install Zest along with Usus.  Zest is available from the [http://wiki.eclipse.org/Eclipse_Project_Update_Sites Eclipse release update site] corresponding to your Eclipse installation. This update site is enabled by default, i.e. Eclipse will find Zest automatically, the required Zest features do not have to be selected manually.
