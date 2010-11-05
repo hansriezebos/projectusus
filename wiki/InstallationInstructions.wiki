@@ -1,14 +1,17 @@
 #summary Download and install the Usus plugins
 #labels Featured
 
-= Quick Installation =
+=== 1. Add the Project Usus Update Site ===
+  * http://projectusus.googlecode.com/svn/updates/
 
-  # *Add the Project Usus update site:*
-    * http://projectusus.googlecode.com/svn/updates/
-  # *Select features:*
+=== 2. Select Features ===
     * _Project Usus_ (required)
+
+    * _Project Usus Multi-Project JUnit Runner_ (optional)
+
     * _Project Usus Bug Prison_ (optional)
-  # *Start the installation!*
+
+=== 3. Start the Installation! ===
 
 A picture is worth a thousand words:
 
