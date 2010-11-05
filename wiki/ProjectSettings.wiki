@@ -1,4 +1,5 @@
 #summary Apply common settings and transfer them from one project to another with ease
+#labels Incomplete
 
 = What's it about? =
 
