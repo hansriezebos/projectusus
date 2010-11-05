@@ -1,7 +1,9 @@
 #summary Download and install the Usus plugins
 #labels Featured
 
-=== 1. Add the Project Usus Update Site ===
+= Quick Installation =
+
+=== 1. Add the Update Site ===
 
 *[http://projectusus.googlecode.com/svn/updates/]*
 
@@ -16,3 +18,9 @@
 A picture is worth a thousand words:
 
 [http://projectusus.googlecode.com/svn/wiki/img/updateManager.png http://projectusus.googlecode.com/svn/wiki/img/updateManager_small.png]
+
+
+= Requirements =
+
+  * Eclipse 3.4 or higher
+  * Graphical Editing Framework Zest Visualization Toolkit (from pre-configured Eclipse Release Update Site)
