@@ -7,6 +7,8 @@
 
   * *[ProjectSettings Project Settings]*<br>_Apply common settings and transfer them from one project to another with ease._
 
+  * *[AutomaticTestSuites Automatic Test Suites]*<br>_Easily run all unit tests in multiple projects with a single click._
+
   * *[YellowCount Yellow Count]*<br> _Visualize the current amount of compiler warnings and other 'yellow' markers in the workspace._
 
   * *[BugPrison Bug Prison]*<br>_Detain your bugs in the bug prison._
