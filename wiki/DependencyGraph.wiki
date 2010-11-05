@@ -1,4 +1,5 @@
 #summary Visualizes dependencies between classes and packages.
+#labels Incomplete
 
 = What's it about? =
 
@@ -17,4 +18,3 @@ http://projectusus.googlecode.com/svn/wiki/img/package-graph.png
 == Class references between two packages ==
 
 http://projectusus.googlecode.com/svn/wiki/img/class-graph.png
-
