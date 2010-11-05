@@ -1,4 +1,4 @@
-#summary Features of the USUS Eclipse plug-ins
+#summary Features of the Project Usus Eclipse plug-ins
 #labels Featured
 
   * *[CodeProportions Code Proportions]*<br>_Code proportions measurements direct your attention to the right places_
