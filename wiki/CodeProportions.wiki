@@ -14,6 +14,6 @@ Below, you see the *Usus Cockpit* view.
 
 <img src="http://projectusus.googlecode.com/svn/wiki/img/mainPerspective.png" width="924"/>
 
-To trigger the first computation, click on the 'Refresh' button in the top-right corner of the View. This step is only necessary for the very first computation. Subsequently, any resource change in the workspace will trigger an incremental computation automatically.
+To trigger the first computation, click on the 'Refresh' button in the top-right corner of the View. This step is only necessary for the very first computation. Any subsequent resource change in the workspace will trigger an incremental computation automatically.
 
 In addition, you can see the hotspots (highest violations) on the *Usus Hotspots* view. Double-clicking a hotspot opens the Java editor at the corresponding source location.
