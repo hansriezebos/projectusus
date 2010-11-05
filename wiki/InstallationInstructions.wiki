@@ -2,13 +2,13 @@
 #labels Featured
 
 === 1. Add the Project Usus Update Site ===
-  * http://projectusus.googlecode.com/svn/updates/
+
+*[http://projectusus.googlecode.com/svn/updates/]*
 
 === 2. Select Features ===
+
     * _Project Usus_ (required)
-
     * _Project Usus Multi-Project JUnit Runner_ (optional)
-
     * _Project Usus Bug Prison_ (optional)
 
 === 3. Start the Installation! ===
