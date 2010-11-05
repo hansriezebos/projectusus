@@ -23,4 +23,4 @@ A picture is worth a thousand words:
 = Requirements =
 
   * Eclipse 3.4 or higher
-  * Graphical Editing Framework Zest Visualization Toolkit (from pre-configured Eclipse Release Update Site)
+  * Graphical Editing Framework Zest Visualization Toolkit (is found automatically from pre-configured Eclipse Release Update Site)
