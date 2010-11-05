@@ -1,8 +1,8 @@
-  * InstallationInstructions
-  * Features
-    * CodeProportions
-    * DependencyGraphs
-    * ProjectSettings
-    * YellowCount
-    * BugPrison
-  * ProjectContributors
+  * [InstallationInstructions Installation Instructions]
+  * [Features]
+    * [CodeProportions Code Proportions]
+    * [DependencyGraph Dependency Graphs]
+    * [ProjectSettings Project Settings]
+    * [YellowCount Yellow Count]
+    * [BugPrison Bug Prison]
+  * [ProjectContributors Project Contributors]
