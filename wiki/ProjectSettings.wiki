@@ -8,3 +8,6 @@ Projects in the Eclipse workspace can comprise many specific settings: compiler 
 
 
 = What does it look like? =
+
+[http://projectusus.googlecode.com/svn/wiki/img/copy-settings-menu.png http://projectusus.googlecode.com/svn/wiki/img/copy-settings-menu-small.png]
+[http://projectusus.googlecode.com/svn/wiki/img/copy-settings-wizard.png http://projectusus.googlecode.com/svn/wiki/img/copy-settings-wizard-small.png]
