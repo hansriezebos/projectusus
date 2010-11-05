@@ -1,15 +1,5 @@
 #summary Code proportions measurements direct your attention to the right places
 
-= Other Features =
-
-  * *BugPrison*
-    * _Detain your bugs in the bug prison_
-  * *ProjectSettings*
-    * _Apply common settings and transfer them from one project to another with ease_
-  * *YellowCount*
-    * _Visualize the current amount of compiler warnings and other 'yellow' markers in the workspace_
-
-
 = What's it about? =
 
 There is no exact science of the Good Code. This means there is probably no precise formula to determine the quality of a code base. But there are some indicators that can give you a clue. Here is one: if your code goes out of proportion, something's probably wrong.
