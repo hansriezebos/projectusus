@@ -6,6 +6,7 @@ Projects in the Eclipse workspace can comprise many specific settings: compiler 
 
 = How to use it? =
 
+Simply select a couple of projects in the Package Explorer and choose "Copy Settings from Project" from the context menu. In the wizard, select what kind of settings you want to copy and a "master" project which will be used as the source of the settings.
 
 = What does it look like? =
 
