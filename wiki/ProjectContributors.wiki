@@ -15,3 +15,9 @@ is software developer at [http://andrena.de andrena objects ag] in Karlsruhe, Ge
 
 *[https://www.xing.com/profile/Marc_Philipp9 Marc Philipp]*
 studied Computer Science in Karlsruhe, Germany, and specialized in experimental research of Test-Driven Development (TDD) and Pair Programming. In 2008 he joined [http://andrena.de andrena] to work as software developer. His current interests include work on software development tools, such as JUnit and Project Usus.
+
+*[https://www.xing.com/profile/Andreas_Leidig Andreas Leidig]* is senior software developer, architect, project lead and agile coach at andrena objects ag. He is experienced in various aspects of software development. Having started out as Smalltalk developer, his current focus is to support customers’ teams and to coach them in agile and XP practices.
+
+<hr>
+
+[DevelopmentRequirements Requirements for the Usus development]
