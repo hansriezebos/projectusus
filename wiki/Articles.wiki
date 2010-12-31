@@ -1,0 +1,14 @@
+#summary Articles about Usus
+#labels Featured
+
+= Eclipse Magazin 6.10 (German) =
+
+[http://code.google.com/p/projectusus/downloads/detail?name=ECM%206.10_Philipp_Rauch_Usus.pdf&can=2 http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_6.10_01.png]
+[http://code.google.com/p/projectusus/downloads/detail?name=ECM%206.10_Philipp_Rauch_Usus.pdf&can=2 http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_6.10_02.png]
+[http://code.google.com/p/projectusus/downloads/detail?name=ECM%206.10_Philipp_Rauch_Usus.pdf&can=2 http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_6.10_03.png]
+[http://code.google.com/p/projectusus/downloads/detail?name=ECM%206.10_Philipp_Rauch_Usus.pdf&can=2 http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_6.10_04.png]
+
+= Eclipse Magazin 2.10 (German) =
+
+[http://code.google.com/p/projectusus/downloads/detail?name=ECM%202.10_Frenzel_Rauch_Sch%C3%BCrle_Usus.pdf&can=2 http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_2.10_01.png]
+[http://code.google.com/p/projectusus/downloads/detail?name=ECM%202.10_Frenzel_Rauch_Sch%C3%BCrle_Usus.pdf&can=2 http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_2.10_02.png]
