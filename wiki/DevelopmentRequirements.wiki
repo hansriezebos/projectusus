@@ -5,3 +5,4 @@
   * Eclipse 3.6 or above
   * Graphical Editing Framework Zest Visualization Toolkit SDK (from the preconfigured Eclipse downloads site)
   * JFeet (from https://github.com/leiffrenzel/JFeet.git)
+  * SWTChart (from http://www.swtchart.org, download ZIP file, follow instructions in README.html)
