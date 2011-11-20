@@ -4,7 +4,4 @@
 
   * Eclipse 3.6 or above
   * Graphical Editing Framework Zest Visualization Toolkit SDK (from the preconfigured Eclipse downloads site)
-  * Subversive SVN Team Provider (Incubation) (from the preconfigured Eclipse downloads site)
-  * Subversive SVN Connectors (from http://community.polarion.com/projects/subversive/download/eclipse/2.0/helios-site/)
-  * SVNKit 1.3.2 Implementation (from http://community.polarion.com/projects/subversive/download/eclipse/2.0/helios-site/)
-  * Activate SVN Label Decorations at "General -> Appearance -> Label Decorations"
+  * JFeet (from https://github.com/leiffrenzel/JFeet.git)
