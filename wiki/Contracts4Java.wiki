@@ -2,7 +2,8 @@
 
 Create a folder somewhere on your harddisk (let's call it $FOLDER from now on) and add those two JAR-Files to it:
 
-
+  * https://github.com/usus/usus-plugins/raw/master/org.projectusus.core/lib/c4j.jar
+  * https://github.com/usus/usus-plugins/raw/master/org.projectusus.core/lib/javassist.jar
 
 Edit eclipse.ini and add the following arguments at the end:
 
