@@ -17,4 +17,4 @@ Of course $FOLDER should be replaced by the full path to the folder you created 
 
 Viewing results:
 
-If any of the contracts fails, this will be logged to <workspace>/.metadata/.plugins/org.projectusus.core/c4j.log . If you notice anything that gets logged to this file, we'd be glad to hear about this!
+If any of the contracts fails, this will be logged to theCurrentWorkspace/.metadata/.plugins/org.projectusus.core/c4j.log . If you notice anything that gets logged to this file, we'd be glad to hear about this!
