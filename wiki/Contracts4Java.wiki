@@ -1,0 +1,5 @@
+#summary How to enable the C4J contracts
+
+Edit eclipse.ini and add the following arguments:
+
+TBD
