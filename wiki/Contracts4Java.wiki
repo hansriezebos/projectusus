@@ -1,6 +1,6 @@
 #summary How to enable the C4J contracts
 
-Create a folder somewhere on your harddisk (let's call it $FOLDER from now on) and add those two JAR-Files to it:
+Create a folder somewhere on your harddisk (let's call it $FOLDER from now on) and add the following two JAR-Files to it:
 
   * https://github.com/usus/usus-plugins/raw/master/org.projectusus.core/lib/c4j.jar
   * https://github.com/usus/usus-plugins/raw/master/org.projectusus.core/lib/javassist.jar
@@ -12,3 +12,5 @@ Edit eclipse.ini and add the following arguments at the end (after `-vmargs`):
 -javaagent:$FOLDER/c4j.jar=trace=false,loglevel=warn,exit-on-unknown-contract=false
 -ea
 }}}
+
+Of course $FOLDER should be replaced by the full path to the folder you created in the first step.
