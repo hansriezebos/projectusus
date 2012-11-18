@@ -2,14 +2,16 @@
 
 = The Usus Backlog =
 
-  * LCOM-Metric and visualization:
+  * LCOM-Metric and visualization: (http://docs.codehaus.org/display/SONAR/LCOM4+-+Lack+of+Cohesion+of+Methods)
     * Invocation of a method from another method
     * Access to a field from a method
     * Visualization: Inside one class / crossing a class boundary
-  * Hotspot-list for LCOC (relative / absolute): 
-    * How many unconnected groups of classes does a package contain? 
-  * Try out ZEST 2.x and include it if it works well
+  * LCOC-metric (relative / absolute): (same as LCOM, but for classes)
+    * How many unconnected groups of classes does a package contain?
+    * Implement a Hotspot-list for it (vizualisation already works via Spring layout)
+  * Try out ZEST 2.x and include it if it works well (http://wiki.eclipse.org/Zest)
   * Implement Big Ball of Mud metrics
   * Let the class / package graphs display the hotspots of the selected metric (by some kind of visual emphasis)
   * Determine the "thickness" of a connection between two packages / classes / methods - visualization?
   * Determine which edges of a cycle can be removed in order to resolve the cycle (this seems to be the minimum feedback arc set problem: http://en.wikipedia.org/wiki/Feedback_arc_set ) - visualization?
+  * Implement the "D" metric described in http://en.wikipedia.org/wiki/Software_package_metrics
