@@ -6,5 +6,6 @@
     * [AutomaticTestSuites Automatic Test Suites]
     * [YellowCount Yellow Count]
     * [BugPrison Bug Prison]
+  * [Backlog]
   * [Articles]
   * [ProjectContributors Contributors]
