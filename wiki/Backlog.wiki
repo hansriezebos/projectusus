@@ -11,5 +11,5 @@
   * Try out ZEST 2.x and include it if it works well
   * Implement Big Ball of Mud metrics
   * Let the class / package graphs display the hotspots of the selected metric (by some kind of visual emphasis)
-  * Determine the "thickness" of a connection between two packages / classes / methods
-  * Determine which edges of a cycle can be removed in order to resolve the cycle (this seems to be the minimum feedback arc set problem: http://en.wikipedia.org/wiki/Feedback_arc_set )
+  * Determine the "thickness" of a connection between two packages / classes / methods - visualization?
+  * Determine which edges of a cycle can be removed in order to resolve the cycle (this seems to be the minimum feedback arc set problem: http://en.wikipedia.org/wiki/Feedback_arc_set ) - visualization?
