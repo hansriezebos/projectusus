@@ -14,4 +14,4 @@
   * Let the class / package graphs display the hotspots of the selected metric (by some kind of visual emphasis)
   * Determine the "thickness" of a connection between two packages / classes / methods - visualization?
   * Determine which edges of a cycle can be removed in order to resolve the cycle (this seems to be the minimum feedback arc set problem: http://en.wikipedia.org/wiki/Feedback_arc_set ) - visualization?
-  * Implement the "D" metric described in http://en.wikipedia.org/wiki/Software_package_metrics
+  * Implement the metric "Distance from the Main Sequence" described in http://en.wikipedia.org/wiki/Software_package_metrics
