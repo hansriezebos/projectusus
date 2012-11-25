@@ -10,7 +10,6 @@
     * How many unconnected groups of classes does a package contain?
     * (+) Implement a Hotspot-list for it (vizualisation already works via Spring layout)
   * (++) Try out ZEST 2.x and include it if it works well (http://wiki.eclipse.org/Zest)
-  * (+) Implement Big Ball of Mud metrics
   * (++) Let the class / package graphs display the hotspots of the selected metric (by some kind of visual emphasis)
   * (++) Determine the "thickness" of a connection between two packages / classes / methods
   * (++) Visualization of the above
