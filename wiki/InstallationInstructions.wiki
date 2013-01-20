@@ -11,7 +11,8 @@
 
     * _Project Usus_ (required)
     * _Project Usus Multi-Project JUnit Runner_ (optional)
-    * _Project Usus Bug Prison_ (optional)
+
+The required features "SWTChart" and "JFeet" are installed automatically, even if you do not select them.
 
 === 3. Start the Installation! ===
 
