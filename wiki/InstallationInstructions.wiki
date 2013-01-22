@@ -28,4 +28,7 @@ A picture is worth a thousand words:
 
 = Release Notes =
 
-[https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Release%20Notes/ReleaseNotes_0.7.1.md Release Notes for 0.7.1]
+   * [https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Release%20Notes/ReleaseNotes_0.7.1.md Release Notes for version 0.7.1]
+   * [https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Release%20Notes/ReleaseNotes_0.7.0.md Release Notes for version 0.7.0]
+   * [https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Release%20Notes/ReleaseNotes_0.6.4.md Release Notes for version 0.6.4]
+   * [https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Release%20Notes/ReleaseNotes_0.6.3.md Release Notes for version 0.6.3]
