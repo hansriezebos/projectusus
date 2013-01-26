@@ -4,10 +4,10 @@
 
 Technical:
   * (++) Try out ZEST 2.x and include it if it works well (http://wiki.eclipse.org/Zest)
-  * (++) Let the class / package graphs display the hotspots of the selected metric (by some kind of visual emphasis)
-  * (+) Add a decorator to the project?
-  * (++) Filter to exclude source folders, packages or classes from the calculations
-  * (++) Moving the existing PDE tests to the new test concept (4-stage tests)
+  * (++) Let the class / package graphs display the hotspots of the selected metric? (by some kind of visual emphasis)
+  * (+) Add a decorator to the included projects?
+  * (++) Add a Filter to exclude source folders, packages or classes from the calculations
+  * (++) Move the existing PDE tests to the new test concept (4-stage tests)
 
 Metrics and Statistics:
   * (++) Implement the metric "Distance from the Main Sequence" described in http://en.wikipedia.org/wiki/Software_package_metrics
