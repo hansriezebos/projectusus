@@ -3,10 +3,10 @@
 = The Usus Backlog =
 
 Technical:
-  * (++) Try out ZEST 2.x and include it if it works well (http://wiki.eclipse.org/Zest)
-  * (++) Let the class / package graphs display the hotspots of the selected metric? (by some kind of visual emphasis)
-  * (+) Add a decorator to the included projects?
   * (++) Add a Filter to exclude source folders, packages or classes from the calculations
+  * (++) Try out ZEST 2.x and include it if it works well (http://wiki.eclipse.org/Zest)
+  * (+) Add a decorator to the included projects?
+  * (++) Let the class / package graphs display the hotspots of the selected metric? (by some kind of visual emphasis)
   * (++) Move the existing PDE tests to the new test concept (4-stage tests)
 
 Metrics and Statistics:
