@@ -20,6 +20,7 @@ Metrics and Statistics:
     * Parameter should not be regarded as a reference
     * Attribute holding state is a reference
     * Implement multiple ACD statistics and see how the networks behave.
+  * Currently, the Yellow-Count is stored in its own data structure (one result value per project). It would be nice to have the Yellow-Count in the rawdata structure, just as the other metrics results. Additionally, one could store one yellow-count result value per file.
 
 Visualizations:
   * (+++) LCOM-Metric and visualization: (http://docs.codehaus.org/display/SONAR/LCOM4+-+Lack+of+Cohesion+of+Methods)
