@@ -5,7 +5,7 @@
 
 === 1. Add the Update Site ===
 
-*[http://projectusus.googlecode.com/svn/updates/]*
+*[http://www.projectusus.org/usus-plugins/updates/]*
 
 === 2. Select Features ===
 
