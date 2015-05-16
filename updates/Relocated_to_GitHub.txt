@@ -1,0 +1,2 @@
+The Project Usus Update Site has been relocated to GitHub:
+http://www.projectusus.org/usus-plugins/updates/
