@@ -1,0 +1,17 @@
+# What's it about? #
+
+TODO
+
+# How to use it? #
+
+TODO
+
+# What does it look like? #
+
+## Packages with cyclic dependencies ##
+
+![http://projectusus.googlecode.com/svn/wiki/img/package-graph.png](http://projectusus.googlecode.com/svn/wiki/img/package-graph.png)
+
+## Class references between two packages ##
+
+![http://projectusus.googlecode.com/svn/wiki/img/class-graph.png](http://projectusus.googlecode.com/svn/wiki/img/class-graph.png)

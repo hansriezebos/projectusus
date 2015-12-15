@@ -1,0 +1,31 @@
+# Quick Installation #
+
+### 1. Add the Update Site ###
+
+**http://www.projectusus.org/usus-plugins/updates/**
+
+### 2. Select Features ###
+
+  * _Project Usus_ (required)
+  * _Project Usus Multi-Project JUnit Runner_ (optional)
+
+The required features "SWTChart" and "JFeet" are installed automatically, even if you do not select them.
+
+### 3. Start the Installation! ###
+
+A picture is worth a thousand words:
+
+![![](http://projectusus.googlecode.com/svn/wiki/img/updateManager_small.png)](http://projectusus.googlecode.com/svn/wiki/img/updateManager.png)
+
+
+# Requirements #
+
+  * Eclipse 3.4 or higher
+  * Graphical Editing Framework Zest Visualization Toolkit (is found automatically from pre-configured Eclipse Release Update Site)
+
+# Release Notes #
+
+  * [Release Notes for version 0.7.1](https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Release%20Notes/ReleaseNotes_0.7.1.md)
+  * [Release Notes for version 0.7.0](https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Release%20Notes/ReleaseNotes_0.7.0.md)
+  * [Release Notes for version 0.6.4](https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Release%20Notes/ReleaseNotes_0.6.4.md)
+  * [Release Notes for version 0.6.3](https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Release%20Notes/ReleaseNotes_0.6.3.md)

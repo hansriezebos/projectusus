@@ -1,0 +1,12 @@
+# What's it about? #
+
+Projects in the Eclipse workspace can comprise many specific settings: compiler warnings, CheckStyle settings, editor save actions, code formatting rules, and so on. Applying these settings selectively to a project makes sense (they are stored in the project itself and thus under version control; you can change them selectively for individual projects). But then you have to do a lot of manual work on the project settings dialogs. The **Project Settings** feature in Usus makes this task much more convenient.
+
+# How to use it? #
+
+Simply select a couple of projects in the Package Explorer and choose "Copy Settings from Project" from the context menu. In the wizard, select what kind of settings you want to copy and a "master" project which will be used as the source of the settings.
+
+# What does it look like? #
+
+![![](http://projectusus.googlecode.com/svn/wiki/img/copy-settings-menu-small.png)](http://projectusus.googlecode.com/svn/wiki/img/copy-settings-menu.png)
+![![](http://projectusus.googlecode.com/svn/wiki/img/copy-settings-wizard-small.png)](http://projectusus.googlecode.com/svn/wiki/img/copy-settings-wizard.png)

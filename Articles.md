@@ -1,0 +1,19 @@
+# Eclipse Magazin 5/2014 (German) #
+
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_5.14_01.png)](https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Eclipse%20Magazin%205.14/ECM5_14_Burkhart_Philipp_Usus.pdf?raw=true)
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_5.14_02.png)](https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Eclipse%20Magazin%205.14/ECM5_14_Burkhart_Philipp_Usus.pdf?raw=true)
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_5.14_03.png)](https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Eclipse%20Magazin%205.14/ECM5_14_Burkhart_Philipp_Usus.pdf?raw=true)
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_5.14_04.png)](https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Eclipse%20Magazin%205.14/ECM5_14_Burkhart_Philipp_Usus.pdf?raw=true)
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_5.14_05.png)](https://github.com/usus/usus-plugins/blob/master/org.projectusus.documentation/Eclipse%20Magazin%205.14/ECM5_14_Burkhart_Philipp_Usus.pdf?raw=true)
+
+# Eclipse Magazin 6/2010 (German) #
+
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_6.10_01.png)](http://code.google.com/p/projectusus/downloads/detail?name=ECM%206.10_Philipp_Rauch_Usus.pdf&can=2)
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_6.10_02.png)](http://code.google.com/p/projectusus/downloads/detail?name=ECM%206.10_Philipp_Rauch_Usus.pdf&can=2)
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_6.10_03.png)](http://code.google.com/p/projectusus/downloads/detail?name=ECM%206.10_Philipp_Rauch_Usus.pdf&can=2)
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_6.10_04.png)](http://code.google.com/p/projectusus/downloads/detail?name=ECM%206.10_Philipp_Rauch_Usus.pdf&can=2)
+
+# Eclipse Magazin 2/2010 (German) #
+
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_2.10_01.png)](http://code.google.com/p/projectusus/downloads/detail?name=ECM%202.10_Frenzel_Rauch_Sch%C3%BCrle_Usus.pdf&can=2)
+[![](http://projectusus.googlecode.com/svn/wiki/img/articles/ECM_2.10_02.png)](http://code.google.com/p/projectusus/downloads/detail?name=ECM%202.10_Frenzel_Rauch_Sch%C3%BCrle_Usus.pdf&can=2)

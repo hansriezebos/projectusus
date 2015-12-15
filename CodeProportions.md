@@ -1,0 +1,17 @@
+# What's it about? #
+
+There is no exact science of the Good Code. This means there is probably no precise formula to determine the quality of a code base. But there are some indicators that can give you a clue. Here is one: if your code goes out of proportion, something's probably wrong.
+
+Measuring code proportions while you code helps you to direct your attention to the places where readability and extensibility suffer. For example, if in a certain area of your code base package or classes classes grow too big, methods become too long or too complex, or dependencies between classes get too tight, then you know you have to think about your design. The **Code Proportions** features in USUS are intended to help us identify that sort of situation quickly and find out what to do.
+
+# How to use it? #
+
+Best start from the Usus perspective (Window > Open Perspective > (Other) > Project Usus). On the left-hand side (stacked behind the Package Explorer) you see a View called **Projects covered by Usus**. Select some Java projects you're working on.
+
+Below, you see the **Usus Cockpit** view.
+
+<img src='http://projectusus.googlecode.com/svn/wiki/img/mainPerspective.png' width='924' />
+
+To trigger the first computation, click on the 'Refresh' button in the top-right corner of the View. This step is only necessary for the very first computation. Any subsequent resource change in the workspace will trigger an incremental computation automatically.
+
+In addition, you can see the hotspots (highest violations) on the **Usus Hotspots** view. Double-clicking a hotspot opens the Java editor at the corresponding source location.
